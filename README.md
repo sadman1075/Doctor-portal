@@ -6,13 +6,14 @@ Doctors Portal is a React-based web application designed to streamline doctor-pa
 
 
 ## Technology Used
-1.Html
-2.Css
-3.Tailwind Css
-4.React js
-5.Firebase
-6.Mongodb
-7.express js
+<li>Html</li>
+<li>Css</li>
+<li>Tailwind Css</li>
+<li>React js</li>
+<li>Firebase</li>
+<li>express js</li>
+<li>Mongodb</li>
+
 
 ## Core Features
 ✔️ Doctor & Patient Authentication
