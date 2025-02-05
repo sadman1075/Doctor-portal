@@ -16,21 +16,21 @@ Doctors Portal is a React-based web application designed to streamline doctor-pa
 
 
 ## Core Features
-✔️ Doctor & Patient Authentication
-✔️ Appointment Scheduling & Management
-✔️ Secure Patient Records
-✔️ Doctor Availability Tracking
-✔️ Email & SMS Appointment Reminders
+<li>✔️ Doctor & Patient Authentication</li>
+<li>✔️ Appointment Scheduling & Management</li>
+<li>✔️ Secure Patient Records</li>
+<li>✔️ Doctor Availability Tracking</li>
+<li>✔️ Email & SMS Appointment Reminders</li>
 
 ## Dependencies
-Ensure you have Node.js installed
-Ensure React is Installed
-## How to Run Locally
-1️⃣ Clone the repository
-2️⃣ Navigate to the project directory
-3️⃣ Install dependencies
-4️⃣ Start the development server
+<li>Ensure you have Node.js installed</li>
+<li>Ensure React is Installed</li>
 
+## How to Run Locally
+<li>1️⃣ Clone the repository</li>
+<li>2️⃣ Navigate to the project directory</li>
+<li>3️⃣ Install dependencies</li>
+<li>4️⃣ Start the development server</li>
 
 
 
